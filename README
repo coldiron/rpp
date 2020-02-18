@@ -1,0 +1,28 @@
+---------------
+0. Introduction
+---------------
+
+Hello and thank you for downloading my Raspberry Pi PIC programmer software!
+
+----------
+1. License
+----------
+
+rpp si free software and it is released under the GNU GPLv3 license.
+
+---------------------------------
+2. Hardware interface, usage, etc
+---------------------------------
+
+Please see: http://holdenc.altervista.org/rpp/
+
+---------
+3. Author
+---------
+
+Giorgio Vazzana, <mywing81@gmail.com>
+
+Aug 14th, 2012
+
+
+Forked from original source by Richard Mitsuk Lavitt on Feb 18th, 2020
